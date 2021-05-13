@@ -7,4 +7,4 @@
 - Thats all for me
 - Thanks for stopping by.
 
-`https://cdn.discordapp.com/attachments/823463070180311040/841210568357707806/image0.gif`
+![](https://cdn.discordapp.com/attachments/823463070180311040/841210568357707806/image0.gif)
