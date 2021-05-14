@@ -24,6 +24,8 @@ Currently learning JavaScript, Python, And Golang
     ﹒
     <a href="https://replit.com/@icantcodelolol">Repl.it</a>
     ﹒
+    <a href-"https://soundcloud.com/6kun">SoundCloud</a>
+    ﹒
 </p>
 </details>
 <details>
