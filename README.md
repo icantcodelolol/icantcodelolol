@@ -21,11 +21,9 @@ Currently learning JavaScript, Python, And Golang
     <p align="center">
     Socials:
 <p align="center"> 
-    ﹒
     <a href="https://replit.com/@icantcodelolol">Repl.it</a>
-    ﹒
-    <a href-"https://soundcloud.com/6kun">SoundCloud</a>
-    ﹒
+    \n
+    <a href-"https://soundcloud.com/6kun">Soundcloud</a>
 </p>
 </details>
 <details>
