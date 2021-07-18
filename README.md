@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=icantcodelolol&color=red">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/781761427664142345.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/848315224666800188.png" />
 </p>
 <p align="center">
 Currently learning JavaScript, Python, And Golang
